@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/iahmb.github.io/static/css/main.41da3030.css",
+    "main.js": "/iahmb.github.io/static/js/main.35bc2f16.js",
+    "index.html": "/iahmb.github.io/index.html",
+    "main.41da3030.css.map": "/iahmb.github.io/static/css/main.41da3030.css.map",
+    "main.35bc2f16.js.map": "/iahmb.github.io/static/js/main.35bc2f16.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.41da3030.css",
+    "static/js/main.35bc2f16.js"
+  ]
+}
